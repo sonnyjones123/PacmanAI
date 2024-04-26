@@ -2,7 +2,7 @@
 ## Completed for CS 6300 Artificial Intelligence @ University of Utah
 
 ### Background
-This repository contains information on the multiple projects I completed during CS 6300 Artificial Intelligence. This course was broadly based on CS 188 Artificial Intelligence @ at the University of California Berkeley, including curricula and projects. The projects included implementing AI algorithms in the Pac-Man Gridworld environment to help Pac-Man win without human input. The following contains an outline and background information on which specific projects were completed. 
+This repository contains information on the multiple projects I completed during CS 6300 Artificial Intelligence. This course was broadly based on CS 188 Artificial Intelligence @ at the University of California Berkeley, including curricula and projects. Berkeley prohibits that solution code be provided online for the sake of class integrity. The projects included implementing AI algorithms in the Pac-Man Gridworld environment to help Pac-Man win without human input. The following contains an outline and background information on which specific projects were completed. 
 
 #### Project 1: Search
 This project involved implementing search algorithms for path planning to help Pac-Man search for food and reach a particular location. The algorithms implemented include Depth First Search, Breadth First Search, A* Search, and Suboptimal Search. Additional topics covered include cost function manipulation and designing heuristics. Detailed project information can be found at the following [link](https://inst.eecs.berkeley.edu/~cs188/fa21/project1/#question-8-3-points-suboptimal-search).
